@@ -18,3 +18,5 @@ sudo su -
 sudi -i
 sudo -iu
 sudo -i
+su -i
+sudo -i
